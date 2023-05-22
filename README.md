@@ -50,6 +50,12 @@ Vs code
 
 
 
+## Contributors
+- Usha Rani - [@usharanimajoju](https://github.com/usharanimajoju)
+- Pranay - [@pranayburra800](https://github.com/pranayburra800)
+- Likitha - [@thallapallylikhitha ](https://github.com/likhithathallapally24)
+
+
 
 
 
